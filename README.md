@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logicraysacademy.com%2Fblog%2Fmern-stack-vs-mean-stack%2F&psig=AOvVaw12iAJqZGJ22CcvK3BUo-7G&ust=1717738523744000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCw6OmgxoYDFQAAAAAdAAAAABAE"/>
+[![MasterHead](https://www.sinmiedoainvertir.com/wp-content/uploads/2022/01/web3.0.jpg)](https://maharajafz03)
 <h1 align="center">Hi 👋, I'm Maga.ETH</h1>
 <h3 align="center">A passionate web3 developer from India</h3>
 <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
